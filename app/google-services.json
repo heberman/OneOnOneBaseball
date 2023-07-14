@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652034413488",
+    "project_id": "oneonone-baseball-12bcf",
+    "storage_bucket": "oneonone-baseball-12bcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652034413488:android:d6d6e2bd79b08c4ec7bc75",
+        "android_client_info": {
+          "package_name": "com.example.oneononebaseball"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyuapfcaAKsxgAIel6wxeje31Wozp9UeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
